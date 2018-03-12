@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PublicKeyFriends</string>
+    <string name="title_partner_list">Partners</string>
+    <string name="title_partner_detail">Partner Detail</string>
+    <string name="mapsKey">AIzaSyB6GDZkC7bOv-IFcmFEcBSj6HW_zucsPsI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
